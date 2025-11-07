@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "ai-toolsbox",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "51c14d4b-faa3-4de0-88ef-df8cfa735fa7",
+      "database_name": "aitoolsbox"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
